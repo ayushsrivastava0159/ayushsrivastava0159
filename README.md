@@ -9,45 +9,35 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/light.svg"
   />
-  <img
-    src="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/light.svg"
-    alt="AYUSH SRIVASTAVA"
-    width="70%"
-  />
+ 
 </picture>
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 
 <img
   width="100%"
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava0159&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
+  height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava0159&show_icons=true&theme=tokyonight"/>
 
-<br /><br />
+<br/><br/>
 
 <img
   width="49%"
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastava0159&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
+height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastava0159&layout=compact&theme=tokyonight"/>
+
+
 
 <img
   width="49%"
-  height="170"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava0159&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+ src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava0159&theme=tokyonight"/>
+
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 
@@ -69,7 +59,7 @@
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 
