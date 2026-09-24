@@ -1,7 +1,3 @@
-<!-- ========================================================= -->
-<!--                        HERO SECTION                       -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <picture>
@@ -20,96 +16,90 @@
   />
 </picture>
 
-<br/><br/>
+</div>
+
+<br />
+
+<div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Frontend+Developer+%7C+Agentic+AI+Enthusiast;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+DSA+%7C+Java+%7C+DBMS+%7C+JavaScript;Turning+Ideas+Into+Real+Projects+%F0%9F%92%A1;Always+Learning.+Always+Building."
-  alt="Typing Animation"
+  width="100%"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava0159&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
 />
 
-<br/><br/>
+<br /><br />
 
-<a href="https://github.com/ayushsrivastava0159">
-  <img src="https://komarev.com/ghpvc/?username=ayushsrivastava0159&label=Profile%20Views&color=22D3EE&style=for-the-badge" />
-</a>
+<img
+  width="49%"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastava0159&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
-<a href="https://github.com/ayushsrivastava0159?tab=followers">
-  <img src="https://img.shields.io/github/followers/ayushsrivastava0159?style=for-the-badge&color=A78BFA&labelColor=0A101F" />
-</a>
+<img
+  width="49%"
+  height="170"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava0159&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
-<br/>
+<br />
 
----
+<!-- GitHub Contribution Snake -->
 
-<!-- ========================================================= -->
-<!--                         ABOUT ME                          -->
-<!-- ========================================================= -->
+<div align="center">
 
-<table>
-<tr>
-<td width="100%">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="80%"
+  />
+</picture>
 
-<h2>👨‍💻 About Me</h2>
+</div>
 
-I'm a **3rd-semester B.Tech Computer Science student** passionate about building modern web applications and exploring **AI-powered solutions**.
+<br />
 
-- 🚀 Focused on **Software Development & Frontend Engineering**
-- 🤖 Exploring **Agentic AI & intelligent automation**
-- 🌐 Building modern and responsive **web applications**
-- 🧠 Practicing **DSA & problem solving**
-- ☕ Learning **Java, JavaScript & backend development**
-- 🗄️ Exploring **DBMS, APIs & databases**
-- 💡 Enjoy solving real-world problems through technology
-- 🔥 Always learning, building and experimenting with new technologies
+<!-- Social Links -->
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br/>
+<a href="https://www.linkedin.com/in/ayush-srivastava-954419386/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-<!-- ========================================================= -->
-<!--                       CURRENT FOCUS                       -->
-<!-- ========================================================= -->
+&nbsp;&nbsp;
 
-<table>
-<tr>
-<td width="50%">
+<a href="https://www.instagram.com/YOUR-HANDLE/">
+  <img
+    src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F"
+    alt="Instagram"
+  />
+</a>
 
-<h2>🎯 Current Focus</h2>
+&nbsp;&nbsp;
 
-🔹 Frontend Development  
-🔹 React.js  
-🔹 Next.js  
-🔹 JavaScript  
-🔹 Java  
-🔹 DSA  
-🔹 DBMS  
-🔹 Backend Development  
-🔹 Agentic AI  
-🔹 APIs & Automation  
+<a href="mailto:ayushsrivastava0159@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
+    alt="Email"
+  />
+</a>
 
-</td>
-
-<td width="50%">
-
-<h2>📚 Currently Learning</h2>
-
-```text
-Frontend
-   ↓
-JavaScript
-   ↓
-React.js
-   ↓
-Next.js
-   ↓
-Backend & APIs
-   ↓
-Databases
-   ↓
-Agentic AI
-   ↓
-Full-Stack Development
+</div>
