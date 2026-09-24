@@ -63,23 +63,23 @@
 <!--              ABOUT + TECH STACK DASHBOARD                 -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%">
 <tr>
 
 <!-- ========================================================= -->
 <!--                         LEFT SIDE                         -->
 <!-- ========================================================= -->
 
-<td width="48%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
 <h1>👋 Hi, I'm Ayush Srivastava</h1>
 
-<h3>
+<h2>
 B.Tech CSE Student<br/>
 Frontend Developer<br/>
 AI Enthusiast<br/>
 Open Source Learner
-</h3>
+</h2>
 
 <br/>
 
@@ -98,17 +98,15 @@ alt="Profile Views"
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
-<h2>🎓</h2>
+<h1>🎓</h1>
 
-<b>B.Tech Computer Science</b>
+<h2>B.Tech Computer Science</h2>
 
-<br/>
-
-PW Institute of Innovation, Lucknow
+<b>PW Institute of Innovation, Lucknow</b>
 
 </td>
 </tr>
@@ -116,7 +114,7 @@ PW Institute of Innovation, Lucknow
 <tr>
 <td align="center">
 
-⬇️
+<h2>⬇️</h2>
 
 </td>
 </tr>
@@ -124,11 +122,9 @@ PW Institute of Innovation, Lucknow
 <tr>
 <td align="center">
 
-<h2>💻</h2>
+<h1>💻</h1>
 
-<b>Software Development</b>
-
-<br/>
+<h2>Software Development</h2>
 
 Building modern web applications
 
@@ -138,7 +134,7 @@ Building modern web applications
 <tr>
 <td align="center">
 
-⬇️
+<h2>⬇️</h2>
 
 </td>
 </tr>
@@ -146,11 +142,9 @@ Building modern web applications
 <tr>
 <td align="center">
 
-<h2>🤖</h2>
+<h1>🤖</h1>
 
-<b>AI-Powered Solutions</b>
-
-<br/>
+<h2>AI-Powered Solutions</h2>
 
 Exploring Agentic AI & intelligent automation
 
@@ -160,7 +154,7 @@ Exploring Agentic AI & intelligent automation
 <tr>
 <td align="center">
 
-⬇️
+<h2>⬇️</h2>
 
 </td>
 </tr>
@@ -168,11 +162,9 @@ Exploring Agentic AI & intelligent automation
 <tr>
 <td align="center">
 
-<h2>🧠</h2>
+<h1>🧠</h1>
 
-<b>Problem Solving</b>
-
-<br/>
+<h2>Problem Solving</h2>
 
 DSA • Real-world problems • Continuous learning
 
@@ -189,15 +181,11 @@ DSA • Real-world problems • Continuous learning
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
-
-<br/>
-
-<b>React.js</b>
+<h2>⚛️ React.js</h2>
 
 </td>
 </tr>
@@ -209,11 +197,7 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
-
-<br/>
-
-<b>Next.js</b>
+<h2>▲ Next.js</h2>
 
 </td>
 </tr>
@@ -225,11 +209,7 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript" width="55"/>
-
-<br/>
-
-<b>TypeScript</b>
+<h2>🔷 TypeScript</h2>
 
 </td>
 </tr>
@@ -241,11 +221,7 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-
-<br/>
-
-<b>Node.js</b>
+<h2>🟢 Node.js</h2>
 
 </td>
 </tr>
@@ -257,9 +233,7 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-<h2>🧠</h2>
-
-<b>Data Structures & Algorithms</b>
+<h2>🧠 Data Structures & Algorithms</h2>
 
 </td>
 </tr>
@@ -271,9 +245,7 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-<h2>🤖</h2>
-
-<b>AI Development</b>
+<h2>🤖 AI Development</h2>
 
 </td>
 </tr>
@@ -288,16 +260,16 @@ DSA • Real-world problems • Continuous learning
 
 <br/>
 
-<table>
+<table width="100%">
 
 <tr>
 <td align="center">
 
-<h2>🚀 PW LeapX</h2>
+<h1>🚀</h1>
 
-<b>Intern</b>
+<h2>PW LeapX</h2>
 
-<br/><br/>
+<h3>Intern</h3>
 
 📅 <b>May 2026 – Present</b>
 
@@ -319,7 +291,7 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-⬇️
+<h2>⬇️</h2>
 
 </td>
 </tr>
@@ -327,11 +299,13 @@ DSA • Real-world problems • Continuous learning
 <tr>
 <td align="center">
 
-<h2>💻 TechDocs Labs</h2>
+<h1>💻</h1>
 
-<b>Student Intern</b>
+<h2>TechDocs Labs</h2>
 
-<br/><br/>
+<h3>Student Intern</h3>
+
+<br/>
 
 🔹 Responsive web pages
 
@@ -341,7 +315,7 @@ DSA • Real-world problems • Continuous learning
 
 <br/>
 
-🔹 Debugging & optimization
+🔹 Debugging & code optimization
 
 <br/>
 
@@ -359,7 +333,7 @@ DSA • Real-world problems • Continuous learning
 <!--                         RIGHT SIDE                        -->
 <!-- ========================================================= -->
 
-<td width="52%" valign="top" align="center">
+<td width="58%" valign="top" align="center">
 
 <h1>🛠️ Tech Stack</h1>
 
@@ -367,7 +341,7 @@ DSA • Real-world problems • Continuous learning
 
 <!-- ================= LANGUAGES ================= -->
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -375,35 +349,39 @@ DSA • Real-world problems • Continuous learning
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=javascript" width="75"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="75"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" width="75"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="90"/>
 
 <br/><br/>
 
-<b>JavaScript</b>
-&nbsp;&nbsp;&nbsp;
-<b>C</b>
-&nbsp;&nbsp;&nbsp;
-<b>C++</b>
+<h3>
+JavaScript
+&nbsp;&nbsp;&nbsp;&nbsp;
+C
+&nbsp;&nbsp;&nbsp;&nbsp;
+C++
+</h3>
 
-<br/><br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html" width="75"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="75"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="75"/>
+<img src="https://skillicons.dev/icons?i=html" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="90"/>
 
 <br/><br/>
 
-<b>HTML5</b>
+<h3>
+HTML5
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>CSS3</b>
+CSS3
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>Java</b>
+Java
+</h3>
 
 </td>
 </tr>
@@ -413,7 +391,7 @@ DSA • Real-world problems • Continuous learning
 
 <!-- ================= FRONTEND ================= -->
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -421,35 +399,39 @@ DSA • Real-world problems • Continuous learning
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" width="80"/>
+<img src="https://skillicons.dev/icons?i=react" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="90"/>
 
 <br/><br/>
 
-<b>React.js</b>
+<h3>
+React.js
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>Next.js</b>
+Next.js
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>Bootstrap</b>
+Bootstrap
+</h3>
 
-<br/><br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=tailwind" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=jquery" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript" width="80"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=jquery" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" width="90"/>
 
 <br/><br/>
 
-<b>Tailwind CSS</b>
+<h3>
+Tailwind CSS
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>jQuery</b>
+jQuery
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>TypeScript</b>
+TypeScript
+</h3>
 
 </td>
 </tr>
@@ -459,7 +441,7 @@ DSA • Real-world problems • Continuous learning
 
 <!-- ================= BACKEND ================= -->
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -467,27 +449,29 @@ DSA • Real-world problems • Continuous learning
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="80"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="90"/>
 
 <br/><br/>
 
-<b>Node.js</b>
+<h3>
+Node.js
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>MySQL</b>
+MySQL
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>MongoDB</b>
+MongoDB
+</h3>
 
-<br/><br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=firebase" width="80"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="90"/>
 
 <br/><br/>
 
-<b>Firebase</b>
+<h3>Firebase</h3>
 
 </td>
 </tr>
@@ -497,7 +481,7 @@ DSA • Real-world problems • Continuous learning
 
 <!-- ================= AI ================= -->
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -507,35 +491,35 @@ DSA • Real-world problems • Continuous learning
 
 <img
 src="https://img.shields.io/badge/GENERATIVE_AI-0A101F?style=for-the-badge&logo=google-gemini&logoColor=22D3EE"
-height="45"
+height="50"
 />
 
 <br/><br/>
 
 <img
 src="https://img.shields.io/badge/AGENTIC_AI-0A101F?style=for-the-badge&logoColor=A78BFA"
-height="45"
+height="50"
 />
 
 <br/><br/>
 
 <img
 src="https://img.shields.io/badge/GEMINI_API-0A101F?style=for-the-badge&logo=google-gemini&logoColor=22D3EE"
-height="45"
+height="50"
 />
 
 <br/><br/>
 
 <img
 src="https://img.shields.io/badge/API_INTEGRATION-0A101F?style=for-the-badge&logoColor=10B981"
-height="45"
+height="50"
 />
 
 <br/><br/>
 
 <img
 src="https://img.shields.io/badge/WORKFLOW_AUTOMATION-0A101F?style=for-the-badge&logoColor=A78BFA"
-height="45"
+height="50"
 />
 
 </td>
@@ -546,7 +530,7 @@ height="45"
 
 <!-- ================= TOOLS ================= -->
 
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -554,35 +538,39 @@ height="45"
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="80"/>
+<img src="https://skillicons.dev/icons?i=git" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="90"/>
 
 <br/><br/>
 
-<b>Git</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>GitHub</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>VS Code</b>
+<h3>
+Git
+&nbsp;&nbsp;&nbsp;&nbsp;
+GitHub
+&nbsp;&nbsp;&nbsp;&nbsp;
+VS Code
+</h3>
 
-<br/><br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=idea" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=maven" width="80"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=gcp" width="80"/>
+<img src="https://skillicons.dev/icons?i=idea" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" width="90"/>
 
 <br/><br/>
 
-<b>IntelliJ IDEA</b>
+<h3>
+IntelliJ IDEA
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>Maven</b>
+Maven
 &nbsp;&nbsp;&nbsp;&nbsp;
-<b>Google Cloud</b>
+Google Cloud
+</h3>
 
 </td>
 </tr>
@@ -590,5 +578,54 @@ height="45"
 
 </td>
 
+</tr>
+</table>
+
+<br/><br/>
+
+<!-- ========================================================= -->
+<!--                       CONNECT CARD                        -->
+<!-- ========================================================= -->
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<h1>🌐 Let's Connect</h1>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ayush-srivastava-954419386/">
+<img
+src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+height="55"
+/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/YOUR-HANDLE/">
+<img
+src="https://img.shields.io/badge/INSTAGRAM-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F"
+height="55"
+/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ayushsrivastava0159@gmail.com">
+<img
+src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
+height="55"
+/>
+</a>
+
+<br/><br/>
+
+<h2>
+🚀 Let's Build Something Amazing Together
+</h2>
+
+</td>
 </tr>
 </table>
