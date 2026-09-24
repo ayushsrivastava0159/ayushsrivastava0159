@@ -18,30 +18,36 @@
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
 <img
   width="100%"
-  height="170" src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava0159&show_icons=true&theme=tokyonight"/>
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava0159&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-<br/><br/>
-
-<img
-  width="49%"
-height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastava0159&layout=compact&theme=tokyonight"/>
-
-
+<br /><br />
 
 <img
   width="49%"
- src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava0159&theme=tokyonight"/>
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastava0159&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
+<img
+  width="49%"
+  height="170"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava0159&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
@@ -63,7 +69,7 @@ height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
