@@ -3,21 +3,25 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/dark.svg"
+    srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/dark-intro.gif"
   />
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/light.svg"
+    srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/light-intro.gif"
   />
+
   <img
-    src="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/light.svg"
+    src="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/main/light-intro.gif"
     alt="AYUSH SRIVASTAVA"
     width="70%"
   />
+
 </picture>
 
 </div>
 
+<br />
 <br />
 
 <div align="center">
