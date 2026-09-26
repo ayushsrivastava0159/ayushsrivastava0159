@@ -65,96 +65,158 @@ alt="Profile Views"
 <!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👨‍💻 ABOUT ME
+<h2>👨‍💻 ABOUT ME</h2>
 
-</div>
-
-<table width="100%">
+<table width="92%">
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚀 Who I Am
+<h3>🚀 Who I Am</h3>
 
-I'm **Ayush Srivastava**, focused on building modern software products and intelligent applications.
+<p>
+I'm <b>Ayush Srivastava</b>, focused on building modern software products
+and intelligent applications.
+</p>
 
-🎓 **B.Tech Computer Science**  
-🏫 **PW Institute of Innovation, Lucknow**
+<p>
+🎓 <b>B.Tech Computer Science</b><br>
+🏫 <b>PW Institute of Innovation, Lucknow</b>
+</p>
 
-### Areas I Work On
+<h3>🔧 Areas I Work On</h3>
 
-- Software Development
-- Frontend Engineering
-- Agentic AI
-- Intelligent Automation
-- API Integration
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚀 Who I Am
-
-I'm **Ayush Srivastava**, focused on building modern software products and intelligent applications.
-
-🎓 **B.Tech Computer Science**  
-🏫 **PW Institute of Innovation, Lucknow**
-
-### Areas I Work On
-
-- Software Development
-- Frontend Engineering
-- Agentic AI
-- Intelligent Automation
-- API Integration
-- Database Systems
-- Data Structures & Algorithms
-- Real-world Problem Solving
+<ul>
+<li>Software Development</li>
+<li>Frontend Engineering</li>
+<li>Agentic AI</li>
+<li>Intelligent Automation</li>
+<li>API Integration</li>
+<li>Database Systems</li>
+<li>Data Structures & Algorithms</li>
+<li>Real-world Problem Solving</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-## ⚡ Currently Exploring
+<h3>⚡ Currently Exploring</h3>
 
-
-React.js
-Next.js
-TypeScript
-Node.js
-Java
-DSA
-AI Development
-APIs
-Databases
+<p>
+React.js<br>
+Next.js<br>
+TypeScript<br>
+Node.js<br>
+Java<br>
+DSA<br>
+AI Development<br>
+APIs<br>
+Databases<br>
 Automation
+</p>
 
-</td> </tr> </table> <br>
- <div align="center">
-📊 GITHUB PROFILE
-<br> <!-- ========================================================= --> <!-- PROFILE DETAILS --> <!-- ========================================================= -->
+</td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="GitHub Profile Details" />
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<h2>📊 GITHUB PROFILE</h2>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                 PROFILE DETAILS                            -->
+<!-- ========================================================= -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsrivastava0159&theme=github_dark"
+  width="92%"
+  alt="GitHub Profile Details"
+/>
 
 <br><br>
 
-<!-- ========================================================= --> <!-- STATS ROW --> <!-- ========================================================= --> <table width="100%"> <tr> <td width="50%" valign="top">
+<!-- ========================================================= -->
+<!--                    STATS ROW                               -->
+<!-- ========================================================= -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="GitHub Stats" />
+<table width="92%">
+<tr>
 
-</td> <td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsrivastava0159&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsrivastava0159&theme=github_dark"
+  width="100%"
+  alt="GitHub Stats"
+/>
 
-</td> </tr> </table> <br> <!-- ========================================================= --> <!-- LANGUAGE ROW --> <!-- ========================================================= --> <table width="100%"> <tr> <td width="50%" valign="top">
+</td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="Top Languages by Repository" />
+<td width="50%" valign="top" align="center">
 
-</td> <td width="50%" valign="top">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsrivastava0159&theme=github_dark&utcOffset=5.5"
+  width="100%"
+  alt="Productive Time"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="Top Languages by Commit" />
+</td>
 
-</td> </tr> </table> </div> <br>
-```text
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  LANGUAGE ROW                              -->
+<!-- ========================================================= -->
+
+<table width="92%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsrivastava0159&theme=github_dark"
+  width="100%"
+  alt="Top Languages by Repository"
+/>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsrivastava0159&theme=github_dark"
+  width="100%"
+  alt="Top Languages by Commit"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
