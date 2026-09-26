@@ -65,10 +65,6 @@ alt="Profile Views"
 <!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
 
-<!-- ========================================================= -->
-<!--                       ABOUT ME                             -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <h2>👨‍💻 ABOUT ME</h2>
@@ -132,7 +128,197 @@ Automation
 <br>
 
 ---
+<!-- ========================================================= -->
+<!--                       TECH STACK                           -->
+<!-- ========================================================= -->
 
+<div align="center">
+
+# ⚙️ Tech Stack
+
+<br>
+
+## Frontend Development
+
+<table>
+<tr>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70"><br>
+<strong>React</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70"><br>
+<strong>JavaScript</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="70"><br>
+<strong>TypeScript</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70"><br>
+<strong>HTML5</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70"><br>
+<strong>CSS3</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="70"><br>
+<strong>Bootstrap</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="70"><br>
+<strong>Next.js</strong>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## Backend Development
+
+<table>
+<tr>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="70"><br>
+<strong>Node.js</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70"><br>
+<strong>Java</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="70"><br>
+<strong>C++</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="70"><br>
+<strong>C</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70"><br>
+<strong>Python</strong>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## Database & DevOps
+
+<table>
+<tr>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"><br>
+<strong>MySQL</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="70"><br>
+<strong>MongoDB</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="70"><br>
+<strong>Firebase</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="70"><br>
+<strong>Git</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="70"><br>
+<strong>GitHub</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70"><br>
+<strong>Linux</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70"><br>
+<strong>Postman</strong>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+</div>
+
+---
+<br>
+
+<div align="center">
+
+<h2>🌿 3D CONTRIBUTION ACTIVITY 🌿</h2>
+
+<br>
+
+<img
+  src="./profile-3d-contrib/profile-green-animate.svg"
+  width="95%"
+  alt="Ayush Srivastava 3D GitHub Contribution Calendar"
+/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<br>
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/output/github-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/output/github-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/ayushsrivastava0159/ayushsrivastava0159/output/github-snake.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+
+</picture>
+
+</div>
+
+<br>
+
+---
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE                          -->
 <!-- ========================================================= -->
