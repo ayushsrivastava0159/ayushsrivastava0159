@@ -1,12 +1,12 @@
 <!-- ========================================================= -->
-<!--                    AYUSH SRIVASTAVA                       -->
+<!--                 AYUSH SRIVASTAVA                          -->
 <!--              GITHUB PROFILE README                        -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <!-- ========================================================= -->
-<!--                       HERO                                -->
+<!--                         HERO                              -->
 <!-- ========================================================= -->
 
 <picture>
@@ -27,51 +27,42 @@
   />
 </picture>
 
-<br/>
+<br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Engineer;Agentic+AI+%26+Intelligent+Automation;DSA+%7C+Problem+Solving;Building+Ideas+into+Real+World+Products"
-  alt="Typing Animation"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Engineer;Agentic+AI+%26+Intelligent+Automation;DSA+%7C+Problem+Solving;Building+Ideas+into+Real+World+Products"
+alt="Typing Animation"
 />
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/ayushsrivastava0159">
-  <img
-    src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/ayush-srivastava-954419386/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 
 <a href="mailto:ayushsrivastava0159@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
 
-<br/><br/>
+<br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=ayushsrivastava0159&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=ayushsrivastava0159&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge"
+alt="Profile Views"
 />
 
 </div>
 
-<br/>
+<br>
 
 ---
 
 <!-- ========================================================= -->
-<!--                        ABOUT                               -->
+<!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -92,7 +83,26 @@ I'm **Ayush Srivastava**, focused on building modern software products and intel
 🎓 **B.Tech Computer Science**  
 🏫 **PW Institute of Innovation, Lucknow**
 
-My interests include:
+### Areas I Work On
+
+- Software Development
+- Frontend Engineering
+- Agentic AI
+- Intelligent Automation
+- API Integration
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 Who I Am
+
+I'm **Ayush Srivastava**, focused on building modern software products and intelligent applications.
+
+🎓 **B.Tech Computer Science**  
+🏫 **PW Institute of Innovation, Lucknow**
+
+### Areas I Work On
 
 - Software Development
 - Frontend Engineering
@@ -107,9 +117,9 @@ My interests include:
 
 <td width="50%" valign="top">
 
-## ⚡ Currently Learning
+## ⚡ Currently Exploring
 
-```text
+
 React.js
 Next.js
 TypeScript
@@ -121,28 +131,30 @@ APIs
 Databases
 Automation
 
-<!-- ========================================================= --> <!-- GITHUB PROFILE SUMMARY --> <!-- ========================================================= --> <div align="center">
+</td> </tr> </table> <br>
+ <div align="center">
 📊 GITHUB PROFILE
-<br/>
+<br> <!-- ========================================================= --> <!-- PROFILE DETAILS --> <!-- ========================================================= -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsrivastava0159&theme=github_dark&name=Ayush%20Srivastava" width="100%" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="GitHub Profile Details" />
 
-<br/><br/>
+<br><br>
 
-<table width="100%"> <tr> <td width="50%">
+<!-- ========================================================= --> <!-- STATS ROW --> <!-- ========================================================= --> <table width="100%"> <tr> <td width="50%" valign="top">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="GitHub Statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="GitHub Stats" />
 
-</td> <td width="50%">
+</td> <td width="50%" valign="top">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsrivastava0159&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time" />
 
-</td> </tr> </table> <br/> <table width="100%"> <tr> <td width="50%">
+</td> </tr> </table> <br> <!-- ========================================================= --> <!-- LANGUAGE ROW --> <!-- ========================================================= --> <table width="100%"> <tr> <td width="50%" valign="top">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="Top Languages by Repository" />
 
-</td> <td width="50%">
+</td> <td width="50%" valign="top">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsrivastava0159&theme=github_dark" width="100%" alt="Top Languages by Commit" />
 
-</td> </tr> </table> </div> <br/>
+</td> </tr> </table> </div> <br>
+```text
